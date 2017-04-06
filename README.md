@@ -1,5 +1,5 @@
 # Todo App
----
+
 This is a To-do list application that uses PHP's PDO methods to connect to a MySQL server and retrieves tasks that were submitted by users. The purpose of this project is to become adept at PHP and navigating my way around the MySQL server and learn from beginner mistakes. The front end will use Twitter's Bootstrap library with JQuery mixed in.
 
 Design inspiration from:
